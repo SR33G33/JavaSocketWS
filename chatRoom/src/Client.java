@@ -51,6 +51,10 @@ public class Client {
             input.close();
             out.close();
             socket.close();
+            if (socket.isClosed()){
+                System.out.println("Server has successfully closed");
+            }
+
         }
         catch (IOException i) {
             System.out.println(i);
@@ -59,6 +63,6 @@ public class Client {
 
     public static void main(String args[])
     {
-        Client client = new Client("127.0.0.1", 5000);
+        Client client = new Client("10.0.0.48", 5000);
     }
 }
