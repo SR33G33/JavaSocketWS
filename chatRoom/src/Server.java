@@ -30,7 +30,7 @@ public class Server
             String line = "";
 
             // reads message from client until "Over" is sent
-            while (!line.equals("Over"))
+            while (!line.equals("close"))
             {
                 try
                 {
