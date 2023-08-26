@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaSocketWS.iml" filepath="$PROJECT_DIR$/.idea/JavaSocketWS.iml" />
-      <module fileurl="file://$PROJECT_DIR$/chatRoom/chatRoom.iml" filepath="$PROJECT_DIR$/chatRoom/chatRoom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chatRoomV.1/chatRoomV.1.iml" filepath="$PROJECT_DIR$/chatRoomV.1/chatRoomV.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chatRoomV.2/chatRoomV.2.iml" filepath="$PROJECT_DIR$/chatRoomV.2/chatRoomV.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pong/pong.iml" filepath="$PROJECT_DIR$/pong/pong.iml" />
     </modules>
   </component>
 </project>
